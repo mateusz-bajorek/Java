@@ -1,15 +1,15 @@
 {
     "description": "Oracle Java Platform, Standard Edition Development Kit (JDK)",
     "homepage": "https://www.oracle.com/java/technologies/downloads/#java17",
-    "version": "17.0.10",
+    "version": "17.0.11",
     "license": "https://www.oracle.com/downloads/licenses/no-fee-license.html",
     "architecture": {
         "64bit": {
-            "url": "https://download.oracle.com/java/17/archive/jdk-17.0.10_windows-x64_bin.zip",
-            "hash": "c98d85c8417703b0f72ddc5757ed66f3478ea7107b0e6d2a98cadbc73a45d77b"
+            "url": "https://download.oracle.com/java/17/archive/jdk-17.0.11_windows-x64_bin.zip",
+            "hash": "c907bfc7618cfd6e71a2e5b0a0b79b61a41608620731bf9ec97ef3579aada0c5"
         }
     },
-    "extract_dir": "jdk-17.0.10",
+    "extract_dir": "jdk-17.0.11",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"
