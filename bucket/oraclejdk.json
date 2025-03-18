@@ -1,15 +1,15 @@
 {
     "description": "Oracle Java Platform, Standard Edition Development Kit (JDK)",
     "homepage": "https://www.oracle.com/java/",
-    "version": "23.0.2",
+    "version": "24",
     "license": "https://www.oracle.com/downloads/licenses/no-fee-license.html",
     "architecture": {
         "64bit": {
-            "url": "https://download.oracle.com/java/23/archive/jdk-23.0.2_windows-x64_bin.zip",
-            "hash": "480d614c03cb90fbccb37e9e95d45e020ca133d9c40673c61f76540904ef692f"
+            "url": "https://download.oracle.com/java/24/archive/jdk-24_windows-x64_bin.zip",
+            "hash": "c8210bfedf4478f6495fa33effcacdfd61f03e3e346304fce3bedf64b30631a7"
         }
     },
-    "extract_dir": "jdk-23.0.2",
+    "extract_dir": "jdk-24",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"
